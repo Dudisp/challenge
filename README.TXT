@@ -11,6 +11,6 @@ Running is running the main method in src/main.py
 Server port is 8080.
 
 3 things I would a improve:
-    1. I'm not too happy about the http server and how I referenced to the statistics manager.
+    1. Server is quick and dirty and how I referenced to the statistics manager. 
     2. Exception catching in Validator is too broad and catches all exceptions.
     3. I hate the name StatisticsManager but couldn't think of anything else.
